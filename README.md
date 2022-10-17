@@ -22,11 +22,13 @@ To get a local copy up and running follow the below steps.
     `npm install -g npm`
 
 #### Installation
-- clone the repo
+1. open the terminal
+2. clone the repo
 
     `git clone https://github.com/Direct-Entry-Program-09/boc-clone`
 
-
+3. 
+    `npx serve`
 ### License
 License of this project belongs to the respective owners of the original website Bank of Ceylon(BOC).
 
